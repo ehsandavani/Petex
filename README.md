@@ -3,7 +3,7 @@ Code for running Petex OpenServer commands in Python and Visual Basic. Informati
 
 ## Visual Basic
 
-Visual Basic macros are usually tied to a specific excel sheet handling input and output to specific cells. Hence it is not of value to run code without the excel sheet. These VBA macros are wrapped inside the excelsheets which are stored in the ExcelVBA folder.
+Visual Basic (for applications - VBA) macros are usually tied to a specific excel sheet handling input and output to specific cells. Hence it is not of value to run code without the excel sheet. These VBA macros are wrapped inside the excelsheets which are stored in the ExcelVBA folder.
 
 #### Getting started with Visual Basic
 
