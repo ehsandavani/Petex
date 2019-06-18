@@ -1,5 +1,5 @@
 # Petex
-Code for running Petex OpenServer commands in Python and Visual Basic. 
+Code for running Petex OpenServer commands in Python and Visual Basic. Information about OpenServer can be found on the [OpenServer wiki page](https://wiki.equinor.com/wiki/index.php/OpenServer).
 
 ## Visual Basic
 
